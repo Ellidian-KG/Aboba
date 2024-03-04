@@ -8,7 +8,17 @@ public class MenuLoaderSkript : MonoBehaviour
     public GameObject menuPanel;
     public void PlayButton()
     {
-        SceneManager.LoadScene(1);
+        StartCoroutine(LoadSceneAsync());
+    }
+
+    IEnumerator LoadSceneAsync()
+    {
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(1);
+
+        while (!asyncLoad.isDone)
+        {
+            yield return null;
+        }
     }
     public void QuitButton()
     {

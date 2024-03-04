@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:TestingAr/Assets/Editor/Vuforia/ImageTargetTextures/test1/nado_scaled.jpg.meta
 guid: 4d879f150e114d5492d91ff3bb377631
-========
-guid: 12299c3802454f4fad98f2196105b950
->>>>>>>> 4eb1670d715abf041d0e070b8f7fc8f8ed429d42:Lastasd/Assets/Editor/Vuforia/ImageTargetTextures/Truba/1f0d511cac53ae186f3ed600fad90263_scaled.jpg.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -118,6 +114,18 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -130,21 +138,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-<<<<<<<< HEAD:TestingAr/Assets/Editor/Vuforia/ImageTargetTextures/test1/nado_scaled.jpg.meta
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-========
->>>>>>>> 4eb1670d715abf041d0e070b8f7fc8f8ed429d42:Lastasd/Assets/Editor/Vuforia/ImageTargetTextures/Truba/1f0d511cac53ae186f3ed600fad90263_scaled.jpg.meta
     buildTarget: Lumin
     maxTextureSize: 2048
     resizeAlgorithm: 0

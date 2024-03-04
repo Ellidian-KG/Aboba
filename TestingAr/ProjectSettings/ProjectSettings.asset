@@ -4,11 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-<<<<<<<< HEAD:TestingAr/ProjectSettings/ProjectSettings.asset
   productGUID: b4ec5687dd477514cb3db5c2bfb08084
-========
-  productGUID: 1142f94c68310654083f91560c58198f
->>>>>>>> 4eb1670d715abf041d0e070b8f7fc8f8ed429d42:Lastasd/ProjectSettings/ProjectSettings.asset
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -17,11 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-<<<<<<<< HEAD:TestingAr/ProjectSettings/ProjectSettings.asset
   productName: TestingAr
-========
-  productName: Lastasd
->>>>>>>> 4eb1670d715abf041d0e070b8f7fc8f8ed429d42:Lastasd/ProjectSettings/ProjectSettings.asset
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -819,17 +811,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-<<<<<<<< HEAD:TestingAr/ProjectSettings/ProjectSettings.asset
   cloudProjectId: 537ee3b6-8cb1-47c9-b9c8-1e8448f6d4bc
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: TestingAr
-========
-  cloudProjectId: 604529eb-5d57-4953-9ca3-dff0cfed880e
-  framebufferDepthMemorylessMode: 0
-  qualitySettingsNames: []
-  projectName: Lastasd
->>>>>>>> 4eb1670d715abf041d0e070b8f7fc8f8ed429d42:Lastasd/ProjectSettings/ProjectSettings.asset
   organizationId: ellidian_kg
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
